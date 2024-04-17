@@ -1,10 +1,4 @@
-Certainly! Here's a description you can use:
-
----
-
-**WeatherNow App**
-
-WeatherNow is a sleek and intuitive weather application designed to provide users with up-to-date weather information at their fingertips. With a clean and modern interface, WeatherNow offers a seamless user experience, making it easy for users to access essential weather data anytime, anywhere.
+WeatherApp is a sleek and intuitive weather application designed to provide users with up-to-date weather information at their fingertips. With a clean and modern interface, WeatherApp offers a seamless user experience, making it easy for users to access essential weather data anytime, anywhere.
 
 **Key Features:**
 
@@ -30,11 +24,11 @@ WeatherNow is a sleek and intuitive weather application designed to provide user
 
 **How to Use:**
 
-Simply enter the name of your desired location in the search bar, and WeatherNow will fetch the latest weather information for that location instantly. Explore the various features and settings to personalize your weather experience and stay informed about the weather conditions that matter to you.
+Simply enter the name of your desired location in the search bar, and WeatherApp will fetch the latest weather information for that location instantly. Explore the various features and settings to personalize your weather experience and stay informed about the weather conditions that matter to you.
 
 **Contribution:**
 
-WeatherNow is an open-source project hosted on GitHub. Contributions, feedback, and suggestions are welcome from the community to improve and enhance the application further. Feel free to fork the repository, make changes, and submit pull requests to contribute to the development of WeatherNow.
+WeatherApp is an open-source project hosted on GitHub. Contributions, feedback, and suggestions are welcome from the community to improve and enhance the application further. Feel free to fork the repository, make changes, and submit pull requests to contribute to the development of WeatherNow.
 
 **License:**
 
